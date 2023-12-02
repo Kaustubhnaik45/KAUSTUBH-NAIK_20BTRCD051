@@ -1,7 +1,9 @@
 # KAUSTUBH-NAIK_20BTRCD051
 
 Created a signup page where a user can register, a login page to log in with the necessary details needed during registration. Successful loginto a profile page which should contain additional details such gmail , gender,passworrd The user can update and delete the profle
-![287436163-be52c032-ad2a-489b-b97a-c6d42ca521a1](https://github.com/Kaustubhnaik45/KAUSTUBH-NAIK_20BTRCD051
+REGISTRATION PAGE 
+![287436163-be52c032-ad2a-489b-b97a-c6d42ca521a1](https://github.com/Kaustubhnaik45/KAUSTUBH-NAIK_20BTRCD051/assets/128448683/137d9c9e-6f92-4622-9960-96f8d4629069)
+
 LOGIN PAGE
 ![287436232-23bad523-81e6-45a4-9785-e9214d77af38](https://github.com/Kaustubhnaik45/KAUSTUBH-NAIK_20BTRCD051/assets/128448683/45cbf44d-5698-42ba-be30-5b3040073438)
 /assets/128448683/7cd93b66-0d43-420e-b4ce-8e14954b0a9d)
